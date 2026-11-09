@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.myiptv.player",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:0F:52:AB:E0:47:6B:4A:42:0D:39:62:3A:42:77:47:04:78:E1:96:AC:59:B5:BF:7D:9E:C0:B2:3A"
+      ]
+    }
+  }
+]
